@@ -16,6 +16,5 @@ I’m a community organizer, data analyst, and recent college graduate with a Ba
 
 ### Contact Me ###
 
-- Check out my website: coming!
+- Check out my website: coming! 
 - Social Media: <a href="https://www.linktr.ee/maelsse">Linktree</a> 
-- Email me: [maelsse@protonmail.com](mailto:maelsse@protonmail.com)
