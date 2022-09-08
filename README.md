@@ -9,6 +9,7 @@ I’m a community organizer, data analyst, and recent college graduate with a Ba
 - Pronouns: He/They
 - Fun Fact: James Baldwin and I share the same birthday
 - 💡: Interested in looking at the intersections of community organizing, data analytics and the legal system.
+- 👀: Working towards becoming a fullstack developer.
 
 ### Languages and Skills ###
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,sqlite,vscode,mongodb,html,js,cs,bootstrap,flask&theme=light)](https://skillicons.dev)
