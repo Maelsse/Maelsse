@@ -12,7 +12,7 @@ I’m a community organizer, data analyst, and recent college graduate with a Ba
 - 👀: Working towards becoming a fullstack developer.
 
 ### Languages and Skills ###
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,sqlite,vscode,mongodb,html,js,cs,bootstrap,flask&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,sqlite,vscode,mongodb,html,js,css,bootstrap,flask&theme=light)](https://skillicons.dev)
 
 
 ### Contact Me ###
